@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "actualizado": "2026-11-10",
   "proveedores": [
     {
@@ -18,70 +18,70 @@
       "url": "https://iptv-org.github.io/iptv/countries/py.m3u",
       "logo": "https://flagcdn.com/w320/py.png"
     },
-        {
-      "id": "VOD Movies",
-      "nombre": "Peliculas",
-      "descripcion": "Transmisiones en vivo formato M3U",
+    {
+      "id": "VOD_Movies",
+      "nombre": "Películas",
+      "descripcion": "Canales de películas 24/7 en vivo",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
-        {
-      "id": "VOD Series",
+    {
+      "id": "VOD_Series",
       "nombre": "Series",
-      "descripcion": "Transmisiones en vivo formato M3U",
+      "descripcion": "Canales de series en vivo",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/series.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
-        {
-      "id": "VOD Anime",
+    {
+      "id": "VOD_Anime",
       "nombre": "Anime",
-      "descripcion": "Transmisiones en vivo formato M3U",
+      "descripcion": "Canales de animación y anime en vivo",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
-        {
-      "id": "VOD Kids",
+    {
+      "id": "VOD_Kids",
       "nombre": "Kids",
-      "descripcion": "Transmisiones en vivo formato M3U",
+      "descripcion": "Canales infantiles en vivo",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
-        {
-      "id": "VOD Kids Latam",
+    {
+      "id": "VOD_Kids_Latam",
       "nombre": "Kids Latam",
-      "descripcion": "Transmisiones en vivo formato M3U",
+      "descripcion": "Dibujos animados en español latino — VOD",
       "tipo": "m3u",
       "url": "https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
-            {
-      "id": "VOD Studio Latam",
-      "nombre": "Kids Studio Latam",
-      "descripcion": "Transmisiones en vivo formato M3U",
+    {
+      "id": "VOD_Studio_Ghibli",
+      "nombre": "Studio Ghibli Latino",
+      "descripcion": "Películas Studio Ghibli en español latino — VOD",
       "tipo": "m3u",
       "url": "https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
-            {
-      "id": "Shovo 2026",
-      "nombre": "Shovo studio",
-      "descripcion": "Transmisiones en vivo formato M3U",
+    {
+      "id": "shovo_2026",
+      "nombre": "Shovo IPTV 2026",
+      "descripcion": "Más de 13.000 canales internacionales — actualizado diario",
       "tipo": "m3u",
       "url": "https://shovo127.github.io/IPTV-By-Shovo/index.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
-      "id": "mi_servidor_xtream",
-      "nombre": "Mi Servidor Xtream Codes",
-      "descripcion": "Acceso IPTV privado por usuario y contraseña",
+      "id": "jumangis_xtream",
+      "nombre": "Jumangis IPTV",
+      "descripcion": "Películas, series, anime y canales en vivo — Xtream Codes. Vence 08-04-2027",
       "tipo": "xtream",
-      "url": "http://ejemplo-iptv.com:8080",
-      "xtream_user": "tu_usuario",
-      "xtream_password": "tu_password",
+      "url": "http://jumangis.cloud:2082",
+      "xtream_user": "JQtzneEm3H",
+      "xtream_password": "JGAtMCvnqC",
       "logo": "https://i.imgur.com/2NZgUfS.png"
     }
   ]
