@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "actualizado": "2026-11-10",
+  "proveedores": [
+    {
+      "id": "m3u_latino",
+      "nombre": "Canales Latinoamerica (M3U)",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://iptv-org.github.io/iptv/languages/spa.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+    {
+      "id": "m3u_paraguay",
+      "nombre": "Paraguay TV (M3U)",
+      "descripcion": "Canales nacionales y de noticias de Paraguay",
+      "tipo": "m3u",
+      "url": "https://iptv-org.github.io/iptv/countries/py.m3u",
+      "logo": "https://flagcdn.com/w320/py.png"
+    },
+    {
+      "id": "mi_servidor_xtream",
+      "nombre": "Mi Servidor Xtream Codes",
+      "descripcion": "Acceso IPTV privado por usuario y contraseña",
+      "tipo": "xtream",
+      "url": "http://ejemplo-iptv.com:8080",
+      "xtream_user": "tu_usuario",
+      "xtream_password": "tu_password",
+      "logo": "https://i.imgur.com/2NZgUfS.png"
+    }
+  ]
+}
