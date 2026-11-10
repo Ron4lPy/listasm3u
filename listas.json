@@ -18,6 +18,54 @@
       "url": "https://iptv-org.github.io/iptv/countries/py.m3u",
       "logo": "https://flagcdn.com/w320/py.png"
     },
+        {
+      "id": "VOD Movies",
+      "nombre": "Peliculas",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+        {
+      "id": "VOD Series",
+      "nombre": "Series",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://iptv-org.github.io/iptv/categories/series.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+        {
+      "id": "VOD Anime",
+      "nombre": "Anime",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+        {
+      "id": "VOD Kids",
+      "nombre": "Kids",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+        {
+      "id": "VOD Kids Latam",
+      "nombre": "Kids Latam",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+            {
+      "id": "VOD Studio Latam",
+      "nombre": "Kids Studio Latam",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
     {
       "id": "mi_servidor_xtream",
       "nombre": "Mi Servidor Xtream Codes",
