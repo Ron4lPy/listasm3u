@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.1,
   "actualizado": "2026-11-10",
   "proveedores": [
     {
@@ -64,6 +64,14 @@
       "descripcion": "Transmisiones en vivo formato M3U",
       "tipo": "m3u",
       "url": "https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u",
+      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
+    },
+            {
+      "id": "Shovo 2026",
+      "nombre": "Shovo studio",
+      "descripcion": "Transmisiones en vivo formato M3U",
+      "tipo": "m3u",
+      "url": "https://shovo127.github.io/IPTV-By-Shovo/index.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
