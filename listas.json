@@ -75,54 +75,6 @@
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
-      "id": "pluto_vod_mx",
-      "nombre": "Pluto TV Películas México",
-      "descripcion": "VOD real — 500 películas bajo demanda. Incluye Cine Anime (24), Cine Acción (100), Cine Comedia (98), Cine Animado (53). Actualizado cada 6h",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-MX.m3u",
-      "logo": "https://images.pluto.tv/static/images/pluto-tv-logo.svg"
-    },
-    {
-      "id": "pluto_vod_ar",
-      "nombre": "Pluto TV Películas Argentina",
-      "descripcion": "VOD real — 500 películas bajo demanda. Incluye Cine Anime (24), Cine Acción (100), Cine Animado (53). Actualizado cada 6h",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-AR.m3u",
-      "logo": "https://images.pluto.tv/static/images/pluto-tv-logo.svg"
-    },
-    {
-      "id": "pluto_vod_es",
-      "nombre": "Pluto TV Películas España",
-      "descripcion": "VOD real — 500 películas bajo demanda en español. Actualizado cada 6h",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-ES.m3u",
-      "logo": "https://images.pluto.tv/static/images/pluto-tv-logo.svg"
-    },
-    {
-      "id": "pluto_vod_br",
-      "nombre": "Pluto TV Películas Brasil",
-      "descripcion": "VOD real — 500 películas bajo demanda. Incluye Cine Anime (28), Cine Ação (100), Cine Comédia (100). Actualizado cada 6h",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-BR.m3u",
-      "logo": "https://images.pluto.tv/static/images/pluto-tv-logo.svg"
-    },
-    {
-      "id": "pluto_vod_cl",
-      "nombre": "Pluto TV Películas Chile",
-      "descripcion": "VOD real — 500 películas bajo demanda en español. Actualizado cada 6h",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-CL.m3u",
-      "logo": "https://images.pluto.tv/static/images/pluto-tv-logo.svg"
-    },
-    {
-      "id": "pluto_vod_co",
-      "nombre": "Pluto TV Películas Colombia",
-      "descripcion": "VOD real — 500 películas bajo demanda en español. Actualizado cada 6h",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/main/pluto-vod-CO.m3u",
-      "logo": "https://images.pluto.tv/static/images/pluto-tv-logo.svg"
-    },
-    {
       "id": "jumangis_xtream",
       "nombre": "Jumangis IPTV",
       "descripcion": "VOD masivo — 852 películas 2025, 483 estrenos, 151 series anime, 62 Crunchyroll, 192 Disney, 29 DreamWorks. Vence 08-04-2027",
