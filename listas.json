@@ -19,46 +19,6 @@
       "logo": "https://flagcdn.com/w320/py.png"
     },
     {
-      "id": "VOD_Movies",
-      "nombre": "Películas (Canales 24/7)",
-      "descripcion": "Canales de películas en vivo 24/7",
-      "tipo": "m3u",
-      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
-      "id": "VOD_Series",
-      "nombre": "Series (Canales 24/7)",
-      "descripcion": "Canales de series en vivo 24/7",
-      "tipo": "m3u",
-      "url": "https://iptv-org.github.io/iptv/categories/series.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
-      "id": "VOD_Anime",
-      "nombre": "Anime (Canales 24/7)",
-      "descripcion": "Canales de animación y anime en vivo",
-      "tipo": "m3u",
-      "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
-      "id": "VOD_Kids",
-      "nombre": "Kids (Canales 24/7)",
-      "descripcion": "Canales infantiles en vivo",
-      "tipo": "m3u",
-      "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
-      "id": "shovo_2026",
-      "nombre": "Shovo IPTV 2026",
-      "descripcion": "Más de 13.000 canales internacionales — actualizado diario",
-      "tipo": "m3u",
-      "url": "https://shovo127.github.io/IPTV-By-Shovo/index.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
       "id": "neospaxy_xtream",
       "nombre": "Neospaxy VOD ⭐",
       "descripcion": "VOD verificado funcionando — 5.923 películas (Netflix Anime 28, Netflix 2025 65, Action 97, Kids 102) + 9.574 episodios de series (Netflix 214, HBO, Disney, Hulu, Amazon). Vence 03/2028. 1 conexión",
