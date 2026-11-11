@@ -5,7 +5,7 @@
     {
       "id": "m3u_latino",
       "nombre": "Canales Latinoamerica (M3U)",
-      "descripcion": "Transmisiones en vivo formato M3U",
+      "descripcion": "Canales en vivo en español — formato M3U",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/languages/spa.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
@@ -20,23 +20,23 @@
     },
     {
       "id": "VOD_Movies",
-      "nombre": "Películas (Live TV)",
-      "descripcion": "Canales de películas 24/7 en vivo",
+      "nombre": "Películas (Canales 24/7)",
+      "descripcion": "Canales de películas en vivo 24/7",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
       "id": "VOD_Series",
-      "nombre": "Series (Live TV)",
-      "descripcion": "Canales de series en vivo",
+      "nombre": "Series (Canales 24/7)",
+      "descripcion": "Canales de series en vivo 24/7",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/series.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
       "id": "VOD_Anime",
-      "nombre": "Anime (Live TV)",
+      "nombre": "Anime (Canales 24/7)",
       "descripcion": "Canales de animación y anime en vivo",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
@@ -44,26 +44,10 @@
     },
     {
       "id": "VOD_Kids",
-      "nombre": "Kids (Live TV)",
+      "nombre": "Kids (Canales 24/7)",
       "descripcion": "Canales infantiles en vivo",
       "tipo": "m3u",
       "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
-      "id": "VOD_Kids_Latam",
-      "nombre": "Kids Latam",
-      "descripcion": "Dibujos animados en español latino — VOD archivos .mp4",
-      "tipo": "m3u",
-      "url": "https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u",
-      "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
-    },
-    {
-      "id": "VOD_Studio_Ghibli",
-      "nombre": "Studio Ghibli Latino",
-      "descripcion": "Películas Studio Ghibli en español latino — VOD archivos .mp4",
-      "tipo": "m3u",
-      "url": "https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u",
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
@@ -75,9 +59,19 @@
       "logo": "https://raw.githubusercontent.com/iptv-org/awesome-iptv/master/banner.png"
     },
     {
+      "id": "neospaxy_xtream",
+      "nombre": "Neospaxy VOD ⭐",
+      "descripcion": "VOD verificado funcionando — 5.923 películas (Netflix Anime 28, Netflix 2025 65, Action 97, Kids 102) + 9.574 episodios de series (Netflix 214, HBO, Disney, Hulu, Amazon). Vence 03/2028. 1 conexión",
+      "tipo": "xtream",
+      "url": "http://dejatedemamadas.neospaxy.top:8080",
+      "xtream_user": "6091773502671",
+      "xtream_password": "26e6a5bd58c3",
+      "logo": "https://i.imgur.com/2NZgUfS.png"
+    },
+    {
       "id": "jumangis_xtream",
-      "nombre": "Jumangis IPTV",
-      "descripcion": "VOD masivo — 852 películas 2025, 483 estrenos, 151 series anime, 62 Crunchyroll, 192 Disney, 29 DreamWorks. Vence 08-04-2027",
+      "nombre": "Jumangis IPTV ⭐ VOD",
+      "descripcion": "VOD masivo — 852 películas 2025, 483 estrenos, 151 series anime, 62 Crunchyroll, 192 Disney, 29 DreamWorks + canales en vivo. 3 conexiones. Vence 08-04-2027",
       "tipo": "xtream",
       "url": "http://jumangis.cloud:2082",
       "xtream_user": "JQtzneEm3H",
@@ -86,3 +80,4 @@
     }
   ]
 }
+
